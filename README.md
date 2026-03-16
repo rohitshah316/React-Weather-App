@@ -9,7 +9,7 @@ Users can quickly **search for a city and see current weather conditions** inclu
 
 ## 🚀 Live Demo
 Check out the live version here:  
-**(https://rohitshahreactweatherapp.netlify.app)**
+**(https://rohitshahreactweather.netlify.app/)**
 
 ---
 
