@@ -14,7 +14,7 @@ Check out the live version here:
 ---
 
 ## 📸 Preview
-![App Screenshot](https://github.com/rohitshah316/React-Movie-Search-App/blob/main/public/react-weather-app.png)
+![App Screenshot](https://github.com/rohitshah316/React-Weather-App/blob/main/public/react-weather-app.png)
 
 ---
 
